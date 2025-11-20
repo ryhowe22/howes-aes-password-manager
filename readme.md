@@ -77,11 +77,12 @@ The executable will be created in the dist directory.
 
 ==Project Structure==
 
-password-manager/ , 
-password_manager_gui.py , 
-password_manager.py , 
-icon_32.png , 
-vault.enc (generated at runtime) , 
-config.json (generated at runtime) , 
+password-manager/ | 
+password_manager_gui.py | 
+password_manager.py | 
+icon_32.png | 
+vault.enc (generated at runtime) | 
+config.json (generated at runtime) | 
 README.md
+
 
